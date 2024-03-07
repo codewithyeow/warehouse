@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Providers;
+namespace Ftsda3\Warehouse\Providers;
 
 use Illuminate\Support\ServiceProvider;
 
